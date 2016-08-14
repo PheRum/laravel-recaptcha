@@ -81,11 +81,9 @@ class Recaptcha
     {
         $options = $this->filterOptions($options);
         
-        $options = Collection::make($options)->reject(function ($value)
-        {
+        $options = Collection::make($options)->reject(function ($value) {
             return empty($value);
-        })->map(function ($value, $key)
-        {
+        })->map(function ($value, $key) {
             return $key . '="' . $value . '"';
         })->implode(', ');
         
