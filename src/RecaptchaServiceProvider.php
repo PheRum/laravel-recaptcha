@@ -19,8 +19,7 @@ class RecaptchaServiceProvider extends ServiceProvider
             __DIR__ . '/config/recaptcha.php' => config_path('recaptcha.php'),
         ], 'config');
         
-        $this->app->validator->extend('recaptcha', function ($attribute, $value)
-        {
+        $this->app->validator->extend('recaptcha', function ($attribute, $value) {
             return app('recaptcha')->verify(app('request'));
         });
     }
@@ -34,8 +33,7 @@ class RecaptchaServiceProvider extends ServiceProvider
     {
         $this->mergeConfigFrom(__DIR__ . '/config/recaptcha.php', 'recaptcha');
         
-        $this->app->bind('recaptcha', function ()
-        {
+        $this->app->bind('recaptcha', function () {
             return new Recaptcha(config('recaptcha'));
         });
     }
