@@ -3,7 +3,7 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
+[![StyleCI](https://styleci.io/repos/65690597/shield)](https://styleci.io/repos/65690597)
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
@@ -89,13 +89,11 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-version]: https://img.shields.io/packagist/v/PheRum/laravel-recaptcha.svg?style=flat
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat
 [ico-travis]: https://img.shields.io/travis/PheRum/laravel-recaptcha/master.svg?style=flat
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/PheRum/laravel-recaptcha.svg?style=flat
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/PheRum/laravel-recaptcha.svg?style=flat
 [ico-downloads]: https://img.shields.io/packagist/dt/PheRum/laravel-recaptcha.svg?style=flat
 
 [link-packagist]: https://packagist.org/packages/PheRum/laravel-recaptcha
 [link-travis]: https://travis-ci.org/pherum/Laravel-Recaptcha
-[link-scrutinizer]: https://scrutinizer-ci.com/g/PheRum/laravel-recaptcha/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/PheRum/laravel-recaptcha
 [link-downloads]: https://packagist.org/packages/PheRum/laravel-recaptcha
 [link-author]: https://github.com/PheRum
