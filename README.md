@@ -17,7 +17,7 @@ reCAPTCHA is a free CAPTCHA service that protect websites from spam and abuse.
 Via Composer
 
 ``` bash
-$ composer require pherum/laravel-recaptcha
+composer require pherum/laravel-recaptcha
 ```
 
 And then, if using Laravel 5, include the service provider within `app/config/app.php`.
@@ -86,17 +86,17 @@ If you discover any security related issues, please email pherum@mail.ru instead
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/pherum/laravel-recaptcha.svg?style=flat
+[ico-version]: https://img.shields.io/packagist/v/PheRum/laravel-recaptcha.svg?style=flat
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat
-[ico-travis]: https://img.shields.io/travis/pherum/laravel-recaptcha/master.svg?style=flat
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/pherum/laravel-recaptcha.svg?style=flat
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/pherum/laravel-recaptcha.svg?style=flat
-[ico-downloads]: https://img.shields.io/packagist/dt/pherum/laravel-recaptcha.svg?style=flat
+[ico-travis]: https://img.shields.io/travis/PheRum/laravel-recaptcha/master.svg?style=flat
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/PheRum/laravel-recaptcha.svg?style=flat
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/PheRum/laravel-recaptcha.svg?style=flat
+[ico-downloads]: https://img.shields.io/packagist/dt/PheRum/laravel-recaptcha.svg?style=flat
 
-[link-packagist]: https://packagist.org/packages/pherum/laravel-recaptcha
+[link-packagist]: https://packagist.org/packages/PheRum/laravel-recaptcha
 [link-travis]: https://travis-ci.org/pherum/Laravel-Recaptcha
-[link-scrutinizer]: https://scrutinizer-ci.com/g/pherum/laravel-recaptcha/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/pherum/laravel-recaptcha
-[link-downloads]: https://packagist.org/packages/pherum/laravel-recaptcha
-[link-author]: https://github.com/pherum
+[link-scrutinizer]: https://scrutinizer-ci.com/g/PheRum/laravel-recaptcha/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/PheRum/laravel-recaptcha
+[link-downloads]: https://packagist.org/packages/PheRum/laravel-recaptcha
+[link-author]: https://github.com/PheRum
 [link-contributors]: ../../contributors
