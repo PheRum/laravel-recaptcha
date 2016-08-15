@@ -93,7 +93,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-downloads]: https://img.shields.io/packagist/dt/PheRum/laravel-recaptcha.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/PheRum/laravel-recaptcha
-[link-travis]: https://travis-ci.org/pherum/Laravel-Recaptcha
+[link-travis]: https://travis-ci.org/PheRum/laravel-recaptcha
 [link-code-quality]: https://scrutinizer-ci.com/g/PheRum/laravel-recaptcha
 [link-downloads]: https://packagist.org/packages/PheRum/laravel-recaptcha
 [link-author]: https://github.com/PheRum
