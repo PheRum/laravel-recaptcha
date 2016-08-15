@@ -86,11 +86,11 @@ If you discover any security related issues, please email pherum@mail.ru instead
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/PheRum/laravel-recaptcha.svg?style=flat
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat
-[ico-travis]: https://img.shields.io/travis/PheRum/laravel-recaptcha/master.svg?style=flat
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/PheRum/laravel-recaptcha.svg?style=flat
-[ico-downloads]: https://img.shields.io/packagist/dt/PheRum/laravel-recaptcha.svg?style=flat
+[ico-version]: https://img.shields.io/packagist/v/PheRum/laravel-recaptcha.svg?style=flat-square
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/PheRum/laravel-recaptcha/master.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/PheRum/laravel-recaptcha.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/PheRum/laravel-recaptcha.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/PheRum/laravel-recaptcha
 [link-travis]: https://travis-ci.org/pherum/Laravel-Recaptcha
