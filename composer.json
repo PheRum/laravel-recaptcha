@@ -35,6 +35,16 @@
             "PheRum\\Recaptcha\\": "tests"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PheRum\\Recaptcha\\RecaptchaServiceProvider"
+            ],
+            "aliases": {
+                "Recaptcha": "PheRum\\Recaptcha\\Facades\\Recaptcha"
+            }
+        }
+    },
     "scripts": {
         "test": "phpunit"
     },
