@@ -18,12 +18,12 @@
     ],
     "require": {
         "google/recaptcha": "^1.2",
-        "illuminate/support": "^5.8 || ^6.0 || ^7.24",
-        "illuminate/http": "^5.8 || ^6.0 || ^7.24"
+        "illuminate/support": "^5.8 || ^6.0 || ^7.0 || ^8.0",
+        "illuminate/http": "^5.8 || ^6.0 || ^7.0 || ^8.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.4",
-        "phpunit/phpunit": "^8.5"
+        "phpunit/phpunit": "^8.5 || ^9.0"
     },
     "autoload": {
         "psr-4": {
